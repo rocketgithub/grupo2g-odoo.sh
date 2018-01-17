@@ -2,3 +2,11 @@
 	path = bolson
 	url = https://github.com/rocketgithub/bolson.git
 	branch = 9.0
+[submodule "l10n_gt_extra"]
+	path = l10n_gt_extra
+	url = https://github.com/rocketgithub/l10n_gt_extra.git
+	branch = 9.0
+[submodule "grupo2g"]
+	path = grupo2g
+	url = https://github.com/rocketgithub/grupo2g.git
+	branch = master
