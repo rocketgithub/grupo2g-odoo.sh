@@ -10,3 +10,7 @@
 	path = importaciones
 	url = https://github.com/rocketgithub/importaciones.git
 	branch = 10.0
+[submodule "grupo2g"]
+	path = grupo2g
+	url = git@github.com:rocketgithub/grupo2g.git
+	branch = master
