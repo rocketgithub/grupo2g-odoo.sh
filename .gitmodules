@@ -14,3 +14,7 @@
 	path = grupo2g
 	url = git@github.com:rocketgithub/grupo2g.git
 	branch = master
+[submodule "rrhh"]
+	path = rrhh
+	url = git@github.com:rocketgithub/rrhh
+	branch = 10.0
