@@ -22,3 +22,7 @@
 	path = conciliacion_bancaria
 	url = git@github.com:rocketgithub/conciliacion_bancaria
 	branch = 9.0
+[submodule "kardex"]
+	path = kardex
+	url = https://github.com/rocketgithub/kardex.git
+	branch = 10.0
