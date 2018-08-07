@@ -1,1 +1,1 @@
-# grupo2g-odoo.sh 
+# grupo2g-odoo.sh
