@@ -26,3 +26,6 @@
 	path = kardex
 	url = https://github.com/rocketgithub/kardex.git
 	branch = 10.0
+[submodule "pos_gt"]
+	path = pos_gt
+	url = git@github.com:rocketgithub/pos_gt.git
