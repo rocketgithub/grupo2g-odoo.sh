@@ -29,3 +29,7 @@
 [submodule "pos_gt"]
 	path = pos_gt
 	url = git@github.com:rocketgithub/pos_gt.git
+[submodule "pos_guardar"]
+	path = pos_guardar
+	url = https://github.com/rocketgithub/pos_guardar.git
+	branch = 10.0
